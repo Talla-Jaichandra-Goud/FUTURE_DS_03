@@ -1,5 +1,4 @@
-# FUTURE_DS_03
-Customer Behavior Analysis
+# Customer Behavior Analysis
 📌 Project Overview
 The objective of this project is to analyze customer purchasing patterns, understand customer preferences, identify key business trends, and create an interactive dashboard that helps businesses make data-driven decisions.The project covers the complete Data Analyst workflow, starting from data exploration and cleaning to SQL analysis and dashboard development.
 
